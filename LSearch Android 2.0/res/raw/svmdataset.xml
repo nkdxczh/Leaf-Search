@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<my_svm type_id="opencv-ml-svm">
+  <svm_type>C_SVC</svm_type>
+  <kernel><type>LINEAR</type></kernel>
+  <C>1.0000000000000001e-001</C>
+  <term_criteria><epsilon>2.2204460492503131e-016</epsilon>
+    <iterations>100</iterations></term_criteria>
+  <var_all>3</var_all>
+  <var_count>3</var_count>
+  <class_count>6</class_count>
+  <class_labels type_id="opencv-matrix">
+    <rows>1</rows>
+    <cols>6</cols>
+    <dt>i</dt>
+    <data>
+      0 1 2 3 4 5</data></class_labels>
+  <sv_total>15</sv_total>
+  <support_vectors>
+    <_>
+      -3.35469358e-002 -1.28075136e-002 -1.64218936e-002</_>
+    <_>
+      -2.03531720e-002 -4.53783311e-002 -1.87968686e-002</_>
+    <_>
+      2.76883170e-002 -6.61890209e-002 5.64770401e-003</_>
+    <_>
+      -2.01035719e-002 -6.05472773e-002 -1.53258583e-002</_>
+    <_>
+      3.38544667e-001 3.61613967e-002 4.87650223e-002</_>
+    <_>
+      2.94163637e-002 -2.88530327e-002 -1.04716793e-002</_>
+    <_>
+      3.99051830e-002 -4.59338129e-002 1.79884024e-002</_>
+    <_>
+      2.95655262e-002 -8.59145746e-002 -6.02454180e-003</_>
+    <_>
+      4.29335535e-002 1.24184191e-001 -1.35655850e-002</_>
+    <_>
+      1.80476978e-002 -1.70575026e-002 1.02509430e-003</_>
+    <_>
+      -2.94137895e-002 -1.07093126e-001 -4.65437621e-002</_>
+    <_>
+      -3.50154847e-001 1.02956131e-001 -1.91064291e-002</_>
+    <_>
+      -2.98544429e-002 -3.33436839e-002 -1.73104536e-002</_>
+    <_>
+      2.27820203e-001 5.86906336e-002 2.66530085e-002</_>
+    <_>
+      7.13434160e-001 3.33050817e-001 4.02673259e-002</_></support_vectors>
+  <decision_functions>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>-4.0862126777084257e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        0</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>-2.6992523784683031e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        1</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>1.2334672416494070e+000</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        2</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>-6.4157501115496118e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        3</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>1.0798984015663646e+000</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        4</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>3.9952668144718806e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        5</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>5.7719990426950674e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        6</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>-6.8724247123839927e-002</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        7</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>2.3320762883646642e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        8</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>7.5046760296089998e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        9</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>-9.3658680550888873e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        10</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>6.4664690214075915e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        11</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>-1.0695139825894584e+000</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        12</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>1.5115353581516904e+000</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        13</index></_>
+    <_>
+      <sv_count>1</sv_count>
+      <rho>6.4029081970639767e-001</rho>
+      <alpha>
+        1.</alpha>
+      <index>
+        14</index></_></decision_functions></my_svm>
+</opencv_storage>
